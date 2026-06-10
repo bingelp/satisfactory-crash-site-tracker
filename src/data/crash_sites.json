@@ -1,0 +1,4976 @@
+[
+  {
+    "id": "BP_DropPod1_4",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 3031.69,
+      "y": -2461.69
+    },
+    "altitude": 55,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Steel Beam"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Copper Sheet",
+        "quantity": 65
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 40
+      },
+      {
+        "item": "Medicinal Inhaler",
+        "quantity": 2
+      },
+      {
+        "item": "Rotor",
+        "quantity": 59
+      },
+      {
+        "item": "Rotor",
+        "quantity": 66
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 120
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_6",
+    "region": "Desert Canyons",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1272.16,
+      "y": -1168.67
+    },
+    "altitude": -14,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 100
+    },
+    "guards": [
+      "Alpha Spitter",
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Circuit Board",
+        "quantity": 71
+      },
+      {
+        "item": "Computer",
+        "quantity": 19
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 74
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 65
+      },
+      {
+        "item": "Rubber",
+        "quantity": 100
+      },
+      {
+        "item": "Stator",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod21_2",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2951.67,
+      "y": -1731.4
+    },
+    "altitude": 81,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Iron Rod"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 128
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 103
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 13
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 37
+      },
+      {
+        "item": "Rotor",
+        "quantity": 32
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 34
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod22",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 3666.37,
+      "y": -3035.49
+    },
+    "altitude": -73,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 51
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 73
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 60
+      },
+      {
+        "item": "Stator",
+        "quantity": 15
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 90
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 110
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod23",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 3602.85,
+      "y": -2175.59
+    },
+    "altitude": 39,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 70
+    },
+    "guards": [
+      "Spore Flowers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Cable",
+        "quantity": 110
+      },
+      {
+        "item": "Concrete",
+        "quantity": 80
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 112
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 41
+      },
+      {
+        "item": "Rotor",
+        "quantity": 29
+      },
+      {
+        "item": "Wire",
+        "quantity": 118
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod43_2",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1762.45,
+      "y": -2439.85
+    },
+    "altitude": 72,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 71
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 89
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 15
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 31
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 37
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_12",
+    "region": "Spire Coast",
+    "locationNote": "cliffs between Spire Coast and Dune Desert",
+    "coordinates": {
+      "x": 2365.08,
+      "y": -3122.36
+    },
+    "altitude": 100,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 35
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 121
+      },
+      {
+        "item": "Gas Filter",
+        "quantity": 3
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 30
+      },
+      {
+        "item": "Motor",
+        "quantity": 18
+      },
+      {
+        "item": "Stator",
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_8",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 646.97,
+      "y": 1560.39
+    },
+    "altitude": 141,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 6,
+      "item": "Modular Frame"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 50
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 20
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 72
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 28
+      },
+      {
+        "item": "Wire",
+        "quantity": 118
+      },
+      {
+        "item": "Screw",
+        "quantity": 122
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_8",
+    "region": "Blue Crater",
+    "locationNote": "southeast, outcropping south of the void waterfall",
+    "coordinates": null,
+    "altitude": null,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Rubber"
+    },
+    "guards": [
+      "Spore Flowers",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 7
+      },
+      {
+        "item": "Motor",
+        "quantity": 17
+      },
+      {
+        "item": "Stator",
+        "quantity": 58
+      },
+      {
+        "item": "Stator",
+        "quantity": 51
+      },
+      {
+        "item": "Plastic",
+        "quantity": 108
+      },
+      {
+        "item": "Gas Nobelisk",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_6",
+    "region": "Southern Forest",
+    "locationNote": "west side, bordering Blue Crater",
+    "coordinates": {
+      "x": 883.24,
+      "y": 1889.14
+    },
+    "altitude": 14,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 30
+    },
+    "guards": [
+      "Spore Flowers",
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 50
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 130
+      },
+      {
+        "item": "Motor",
+        "quantity": 20
+      },
+      {
+        "item": "Stator",
+        "quantity": 43
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 64
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 132
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod40_1163",
+    "region": "Eastern Dune Forest",
+    "locationNote": "north and east of Grass Fields chasms, up cliff",
+    "coordinates": {
+      "x": 213.73,
+      "y": 1323.36
+    },
+    "altitude": 25,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 40
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Steel Pipe",
+        "quantity": 44
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 17
+      },
+      {
+        "item": "Rotor",
+        "quantity": 57
+      },
+      {
+        "item": "Rotor",
+        "quantity": 42
+      },
+      {
+        "item": "Cable",
+        "quantity": 120
+      },
+      {
+        "item": "Wire",
+        "quantity": 146
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_5",
+    "region": "Eastern Dune Forest",
+    "locationNote": "western overlook bordering Grass Fields chasm",
+    "coordinates": {
+      "x": 460.48,
+      "y": 1419.33
+    },
+    "altitude": 131,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Cliff Hogs",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Aluminum Casing",
+        "quantity": 111
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 26
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 20
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 15
+      },
+      {
+        "item": "Silica",
+        "quantity": 62
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_3",
+    "region": "Southern Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 469.52,
+      "y": 2218.59
+    },
+    "altitude": 59,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 100
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Steel Beam",
+        "quantity": 127
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 48
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 36
+      },
+      {
+        "item": "Plastic",
+        "quantity": 80
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 134
+      },
+      {
+        "item": "Shatter Rebar",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_5",
+    "region": "Grass Fields",
+    "locationNote": "top of northeast pillar bordering Southern Forest",
+    "coordinates": {
+      "x": 286.96,
+      "y": 1934.41
+    },
+    "altitude": 175,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 130,
+      "item": "Steel Beam"
+    },
+    "guards": [
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 125
+      },
+      {
+        "item": "Concrete",
+        "quantity": 100
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 55
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 41
+      },
+      {
+        "item": "Rotor",
+        "quantity": 43
+      },
+      {
+        "item": "Iron Rebar",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod16_4595",
+    "region": "Grass Fields",
+    "locationNote": "east of arch, east of crater",
+    "coordinates": {
+      "x": 303.84,
+      "y": 2669.76
+    },
+    "altitude": -10,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 124
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 140
+      },
+      {
+        "item": "Wire",
+        "quantity": 62
+      },
+      {
+        "item": "Rotor",
+        "quantity": 35
+      },
+      {
+        "item": "Screw",
+        "quantity": 86
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod41_8375",
+    "region": "Grass Fields",
+    "locationNote": "north of arch",
+    "coordinates": {
+      "x": -99.88,
+      "y": 2276.26
+    },
+    "altitude": -10,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 40
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 74
+      },
+      {
+        "item": "Concrete",
+        "quantity": 128
+      },
+      {
+        "item": "Cable",
+        "quantity": 124
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 74
+      },
+      {
+        "item": "Rotor",
+        "quantity": 26
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod33",
+    "region": "Grass Fields",
+    "locationNote": "southwest void island",
+    "coordinates": {
+      "x": -788.84,
+      "y": 2926.4
+    },
+    "altitude": -48,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Copper Sheet"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Modular Frame",
+        "quantity": 14
+      },
+      {
+        "item": "Wire",
+        "quantity": 110
+      },
+      {
+        "item": "Cable",
+        "quantity": 100
+      },
+      {
+        "item": "Cable",
+        "quantity": 225
+      },
+      {
+        "item": "Rotor",
+        "quantity": 33
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 106
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod17_7892",
+    "region": "Snaketree Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1088.13,
+      "y": 2140.51
+    },
+    "altitude": 32,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Rotor"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 45
+      },
+      {
+        "item": "Concrete",
+        "quantity": 100
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 46
+      },
+      {
+        "item": "Wire",
+        "quantity": 132
+      },
+      {
+        "item": "Iron Rebar",
+        "quantity": 20
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod34",
+    "region": "Grass Fields",
+    "locationNote": "along the waterfalls",
+    "coordinates": {
+      "x": -1522.79,
+      "y": 2295.2
+    },
+    "altitude": 11,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Modular Frame"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Iron Plate",
+        "quantity": 140
+      },
+      {
+        "item": "Concrete",
+        "quantity": 108
+      },
+      {
+        "item": "Screw",
+        "quantity": 120
+      },
+      {
+        "item": "Rotor",
+        "quantity": 33
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 20
+      },
+      {
+        "item": "Cable",
+        "quantity": 128
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod7_5615",
+    "region": "Western Dune Forest",
+    "locationNote": "northwest of Grass Fields",
+    "coordinates": {
+      "x": -1219.94,
+      "y": 1669.16
+    },
+    "altitude": 0,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 60
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Steel Beam",
+        "quantity": 88
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 75
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 54
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 35
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 26
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 72
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod15_821",
+    "region": "Western Beaches",
+    "locationNote": "on the west beach",
+    "coordinates": {
+      "x": -1892.58,
+      "y": 1163.31
+    },
+    "altitude": -18,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 119
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 20
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 62
+      },
+      {
+        "item": "Stator",
+        "quantity": 56
+      },
+      {
+        "item": "Stator",
+        "quantity": 74
+      },
+      {
+        "item": "Motor",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod18",
+    "region": "Western Beaches",
+    "locationNote": "on the west islet",
+    "coordinates": {
+      "x": -2595.77,
+      "y": 1050.49
+    },
+    "altitude": -15,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 66
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 75
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 52
+      },
+      {
+        "item": "Computer",
+        "quantity": 10
+      },
+      {
+        "item": "Packaged Fuel",
+        "quantity": 6
+      },
+      {
+        "item": "Plastic",
+        "quantity": 120
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod6_2102",
+    "region": "Western Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1087.74,
+      "y": 1078.11
+    },
+    "altitude": 102,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Copper Sheet"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Steel Pipe",
+        "quantity": 68
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 28
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 20
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 58
+      },
+      {
+        "item": "Rotor",
+        "quantity": 53
+      },
+      {
+        "item": "Stun Rebar",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_740",
+    "region": "Jungle Spires",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1518.42,
+      "y": 724.68
+    },
+    "altitude": 99,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Stator"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Stator",
+        "quantity": 38
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 105
+      },
+      {
+        "item": "Plastic",
+        "quantity": 66
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 112
+      },
+      {
+        "item": "Motor",
+        "quantity": 7
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F020A401_1123860977",
+    "region": "Jungle Spires",
+    "locationNote": "on the west pillar near the coast",
+    "coordinates": {
+      "x": -1645.91,
+      "y": 1556.11
+    },
+    "altitude": 124,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Crystal Oscillator"
+    },
+    "guards": [
+      "Cliff Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 60
+      },
+      {
+        "item": "Plastic",
+        "quantity": 133
+      },
+      {
+        "item": "Plastic",
+        "quantity": 107
+      },
+      {
+        "item": "Computer",
+        "quantity": 10
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 89
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F020A401_1502230978",
+    "region": "Jungle Spires",
+    "locationNote": "east side, bordering Western Dune Forest",
+    "coordinates": {
+      "x": -1421.73,
+      "y": 979.37
+    },
+    "altitude": 185,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Aluminum Casing",
+        "quantity": 60
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 98
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 82
+      },
+      {
+        "item": "Silica",
+        "quantity": 55
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 140
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 102
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F01FA401_2123550800",
+    "region": "Jungle Spires",
+    "locationNote": "northwest corner",
+    "coordinates": {
+      "x": -1908.66,
+      "y": 669.21
+    },
+    "altitude": 238,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Silica"
+    },
+    "guards": [
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 118
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 70
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 11
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 19
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 12
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 119
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod9_1568",
+    "region": "Western Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1291.15,
+      "y": 601.65
+    },
+    "altitude": 48,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 150
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Stator",
+        "quantity": 33
+      },
+      {
+        "item": "Stator",
+        "quantity": 44
+      },
+      {
+        "item": "Rubber",
+        "quantity": 50
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 37
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 121
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_8348",
+    "region": "Rocky Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": -2324.98,
+      "y": -514.32
+    },
+    "altitude": -4,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 21,
+      "item": "Rotor"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 40
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 15
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 74
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 74
+      },
+      {
+        "item": "Screw",
+        "quantity": 118
+      },
+      {
+        "item": "Cable",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_1325",
+    "region": "Rocky Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1957.56,
+      "y": -592.1
+    },
+    "altitude": -1,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Iron Plate",
+        "quantity": 102
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 36
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 47
+      },
+      {
+        "item": "Screw",
+        "quantity": 111
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 58
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_13058",
+    "region": "Rocky Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": -2002.03,
+      "y": -177.67
+    },
+    "altitude": 122,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Solid Biofuel"
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Modular Frame",
+        "quantity": 15
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 59
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 60
+      },
+      {
+        "item": "Rotor",
+        "quantity": 53
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 147
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 103
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_1145",
+    "region": "Rocky Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1570.8,
+      "y": -670.28
+    },
+    "altitude": 118,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 120
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 74
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 150
+      },
+      {
+        "item": "Rotor",
+        "quantity": 118
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 40
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 15
+      },
+      {
+        "item": "Solid Biofuel",
+        "quantity": 74
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_7",
+    "region": "Rocky Desert",
+    "locationNote": "northwest highlands",
+    "coordinates": {
+      "x": -2473.04,
+      "y": -1423.48
+    },
+    "altitude": 45,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 100
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Steel Pipe",
+        "quantity": 106
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 98
+      },
+      {
+        "item": "Stator",
+        "quantity": 37
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 60
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 59
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3",
+    "region": "Rocky Desert",
+    "locationNote": "north shore",
+    "coordinates": {
+      "x": -1744.95,
+      "y": -1971.35
+    },
+    "altitude": -15,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Copper Sheet"
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 60
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 59
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 21
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 106
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 98
+      },
+      {
+        "item": "Stator",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_3",
+    "region": "Rocky Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1460.44,
+      "y": -1370.47
+    },
+    "altitude": 24,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Modular Frame"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 66
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 128
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 15
+      },
+      {
+        "item": "Rotor",
+        "quantity": 18
+      },
+      {
+        "item": "Screw",
+        "quantity": 118
+      },
+      {
+        "item": "Wire",
+        "quantity": 76
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_0",
+    "region": "Rocky Desert",
+    "locationNote": "northeast mountain, high on plateau",
+    "coordinates": {
+      "x": -1236.77,
+      "y": -1671.07
+    },
+    "altitude": 297,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 4,
+      "item": "Rotor"
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 63
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 66
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 25
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 29
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 16
+      },
+      {
+        "item": "Medicinal Inhaler",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod26",
+    "region": "Spire Coast",
+    "locationNote": "west spires, bordering Rocky Desert",
+    "coordinates": {
+      "x": -551.11,
+      "y": -2048.58
+    },
+    "altitude": 78,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 35,
+      "item": "Rubber"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Quartz Crystal",
+        "quantity": 65
+      },
+      {
+        "item": "Computer",
+        "quantity": 29
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 30
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 149
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 111
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod36_UAID_40B076DF2F79496001_1121515405",
+    "region": "Spire Coast",
+    "locationNote": "northwest tip of beach",
+    "coordinates": {
+      "x": -506.56,
+      "y": -2592.72
+    },
+    "altitude": -17,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Packaged Fuel",
+        "quantity": 3
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 75
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 55
+      },
+      {
+        "item": "Plastic",
+        "quantity": 80
+      },
+      {
+        "item": "Plastic",
+        "quantity": 67
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod36",
+    "region": "Spire Coast",
+    "locationNote": "west side, in the shallow lagoon",
+    "coordinates": {
+      "x": -1.36,
+      "y": -2372.57
+    },
+    "altitude": -18,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Encased Industrial Beam"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 71
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 57
+      },
+      {
+        "item": "Motor",
+        "quantity": 95
+      },
+      {
+        "item": "Rubber",
+        "quantity": 78
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 75
+      },
+      {
+        "item": "Gas Nobelisk",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod37",
+    "region": "Spire Coast",
+    "locationNote": "north, on an islet",
+    "coordinates": {
+      "x": 445.79,
+      "y": -2443.44
+    },
+    "altitude": -9,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 100
+      },
+      {
+        "item": "Rubber",
+        "quantity": 88
+      },
+      {
+        "item": "Computer",
+        "quantity": 14
+      },
+      {
+        "item": "Computer",
+        "quantity": 8
+      },
+      {
+        "item": "Stator",
+        "quantity": 67
+      },
+      {
+        "item": "Stator",
+        "quantity": 56
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod38",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 842.36,
+      "y": -1711.23
+    },
+    "altitude": -3,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 38,
+      "item": "Quickwire"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 80
+      },
+      {
+        "item": "Computer",
+        "quantity": 9
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 71
+      },
+      {
+        "item": "Plastic",
+        "quantity": 111
+      },
+      {
+        "item": "Rubber",
+        "quantity": 88
+      },
+      {
+        "item": "Stator",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod39",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1193.39,
+      "y": -1657.11
+    },
+    "altitude": -2,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 69
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 18
+      },
+      {
+        "item": "Motor",
+        "quantity": 17
+      },
+      {
+        "item": "Motor",
+        "quantity": 30
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 45
+      },
+      {
+        "item": "Stator",
+        "quantity": 57
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod39_UAID_40B076DF2F79F35F01_1355966267",
+    "region": "Spire Coast",
+    "locationNote": "south side middle",
+    "coordinates": {
+      "x": 526.87,
+      "y": -1636.05
+    },
+    "altitude": 154,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Aluminum Casing",
+        "quantity": 80
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 21
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 35
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 127
+      },
+      {
+        "item": "Motor",
+        "quantity": 18
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 87
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod35",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 53.02,
+      "y": -1870.91
+    },
+    "altitude": -16,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Computer"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Computer",
+        "quantity": 9
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 8
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 66
+      },
+      {
+        "item": "Stator",
+        "quantity": 54
+      },
+      {
+        "item": "Plastic",
+        "quantity": 67
+      },
+      {
+        "item": "Rubber",
+        "quantity": 117
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_7",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 983.06,
+      "y": -1497.82
+    },
+    "altitude": 26,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 65
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 15
+      },
+      {
+        "item": "Computer",
+        "quantity": 17
+      },
+      {
+        "item": "Rubber",
+        "quantity": 131
+      },
+      {
+        "item": "Rubber",
+        "quantity": 108
+      },
+      {
+        "item": "Explosive Rebar",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod44_10",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1097.75,
+      "y": -1627.3
+    },
+    "altitude": 156,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 70
+    },
+    "guards": [
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Heat Sink",
+        "quantity": 16
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 86
+      },
+      {
+        "item": "Computer",
+        "quantity": 28
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 2
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 115
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 110
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod25",
+    "region": "Spire Coast",
+    "locationNote": "southwest in mountains bordering Dune Desert",
+    "coordinates": {
+      "x": 1590.88,
+      "y": -1451.16
+    },
+    "altitude": 232,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 12,
+      "item": "Fused Modular Frame"
+    },
+    "guards": [
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Heat Sink",
+        "quantity": 17
+      },
+      {
+        "item": "Computer",
+        "quantity": 33
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 77
+      },
+      {
+        "item": "Silica",
+        "quantity": 69
+      },
+      {
+        "item": "Packaged Liquid Biofuel",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_8",
+    "region": "Northern Forest",
+    "locationNote": "northwest corner, bordering Rocky Desert",
+    "coordinates": {
+      "x": -569.88,
+      "y": -1449.28
+    },
+    "altitude": 22,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 120
+    },
+    "guards": [
+      "2 Flying Crab Hatchers",
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 63
+      },
+      {
+        "item": "Gas Nobelisk",
+        "quantity": 53
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 65
+      },
+      {
+        "item": "Computer",
+        "quantity": 12
+      },
+      {
+        "item": "Motor",
+        "quantity": 29
+      },
+      {
+        "item": "Stator",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2",
+    "region": "Northern Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -263.27,
+      "y": -1290.47
+    },
+    "altitude": 78,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Supercomputer",
+        "quantity": 1
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 115
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 136
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 60
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 54
+      },
+      {
+        "item": "Rotor",
+        "quantity": 42
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_1",
+    "region": "Northern Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 178.08,
+      "y": -1369.23
+    },
+    "altitude": 136,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Rotor"
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 37
+      },
+      {
+        "item": "Rotor",
+        "quantity": 27
+      },
+      {
+        "item": "Screws",
+        "quantity": 136
+      },
+      {
+        "item": "Screws",
+        "quantity": 122
+      },
+      {
+        "item": "Iron Plate",
+        "quantity": 106
+      },
+      {
+        "item": "Iron Rod",
+        "quantity": 66
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod12",
+    "region": "Northern Forest",
+    "locationNote": "southwest, on path up to Lake Forest",
+    "coordinates": {
+      "x": -47.07,
+      "y": -763.02
+    },
+    "altitude": 136,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 2,
+      "item": "Black Powder"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 48
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 31
+      },
+      {
+        "item": "Plastic",
+        "quantity": 47
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 133
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 26
+      },
+      {
+        "item": "Nobelisk",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_0",
+    "region": "Crater Lakes",
+    "locationNote": null,
+    "coordinates": {
+      "x": -892.84,
+      "y": -506.3
+    },
+    "altitude": 160,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 120
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 50
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 31
+      },
+      {
+        "item": "Rotor",
+        "quantity": 75
+      },
+      {
+        "item": "Stator",
+        "quantity": 25
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 117
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 74
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_4",
+    "region": "Crater Lakes",
+    "locationNote": "southeast",
+    "coordinates": {
+      "x": -290.69,
+      "y": -226.4
+    },
+    "altitude": 174,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Plastic"
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Stator",
+        "quantity": 27
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 77
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 69
+      },
+      {
+        "item": "Rotor",
+        "quantity": 71
+      },
+      {
+        "item": "Rotor",
+        "quantity": 66
+      },
+      {
+        "item": "Iron Rebar",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_2",
+    "region": "Crater Lakes",
+    "locationNote": "top of northern bluff",
+    "coordinates": {
+      "x": -561.44,
+      "y": -728.64
+    },
+    "altitude": 277,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 2,
+      "item": "Quartz Crystal"
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Stator",
+        "quantity": 37
+      },
+      {
+        "item": "Stator",
+        "quantity": 31
+      },
+      {
+        "item": "Rotor",
+        "quantity": 70
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 100
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 69
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 34
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod11_2",
+    "region": "Red Jungle",
+    "locationNote": "far west point, above ocean",
+    "coordinates": {
+      "x": -2383.34,
+      "y": 173.22
+    },
+    "altitude": 197,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Quartz Crystal"
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 58
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 39
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 17
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 32
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 127
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_10",
+    "region": "Red Jungle",
+    "locationNote": "atop central arch cluster",
+    "coordinates": {
+      "x": -1420.0,
+      "y": 239.7
+    },
+    "altitude": 327,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Turbo Motor",
+        "quantity": 11
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 17
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 31
+      },
+      {
+        "item": "Silica",
+        "quantity": 110
+      },
+      {
+        "item": "Silica",
+        "quantity": 89
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 101
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_13",
+    "region": "Red Jungle",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1526.77,
+      "y": 338.65
+    },
+    "altitude": 193,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 256
+    },
+    "guards": [
+      "Flying Crab Hatchers",
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 37
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 30
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 78
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 18
+      },
+      {
+        "item": "Explosive Rebar",
+        "quantity": 6
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_12",
+    "region": "Red Jungle",
+    "locationNote": "north edge, near cliff",
+    "coordinates": {
+      "x": -1570.78,
+      "y": -63.13
+    },
+    "altitude": 251,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Electromagnetic Control Rod"
+    },
+    "guards": [
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 19
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 25
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 85
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 120
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 8
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 109
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_22",
+    "region": "Red Jungle",
+    "locationNote": "northeast, bordering Red Bamboo Fields",
+    "coordinates": {
+      "x": -952.28,
+      "y": 69.71
+    },
+    "altitude": 251,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Heavy Modular Frame"
+    },
+    "guards": [
+      "Alpha Spitter",
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 19
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 17
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 102
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 98
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 122
+      },
+      {
+        "item": "Wire",
+        "quantity": 117
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_9",
+    "region": "Red Jungle",
+    "locationNote": null,
+    "coordinates": {
+      "x": -947.09,
+      "y": 403.38
+    },
+    "altitude": 198,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 12,
+      "item": "Heat Sink"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Gas Stingers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Turbo Motor",
+        "quantity": 18
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 100
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 39
+      },
+      {
+        "item": "Computer",
+        "quantity": 40
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 150
+      },
+      {
+        "item": "Silica",
+        "quantity": 94
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_10",
+    "region": "Red Jungle",
+    "locationNote": "southeast, near Red Bamboo Fields",
+    "coordinates": {
+      "x": -782.36,
+      "y": 908.57
+    },
+    "altitude": 203,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Computer",
+        "quantity": 33
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 99
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 89
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 35
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 117
+      },
+      {
+        "item": "Packaged Liquid Biofuel",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod6_27",
+    "region": "Red Bamboo Fields",
+    "locationNote": "southwest cliff, bordering Western Dune Forest",
+    "coordinates": {
+      "x": -353.6,
+      "y": 1165.94
+    },
+    "altitude": 218,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Turbo Motor"
+    },
+    "guards": [
+      "Nuclear Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 27
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 68
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 29
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 119
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 36
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 33
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_11",
+    "region": "Red Bamboo Fields",
+    "locationNote": null,
+    "coordinates": {
+      "x": -401.94,
+      "y": 629.57
+    },
+    "altitude": 263,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Aluminum Casing"
+    },
+    "guards": [
+      "Nuclear Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Computer",
+        "quantity": 30
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 37
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 68
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 31
+      },
+      {
+        "item": "Silica",
+        "quantity": 78
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_24",
+    "region": "Red Bamboo Fields",
+    "locationNote": null,
+    "coordinates": {
+      "x": -35.12,
+      "y": 623.15
+    },
+    "altitude": 221,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Turbo Motor"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Turbo Motor",
+        "quantity": 11
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 22
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 111
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 26
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 150
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 87
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_26",
+    "region": "Red Bamboo Fields",
+    "locationNote": "northeast, near cliffs bordering Titan Forest",
+    "coordinates": {
+      "x": 350.96,
+      "y": 164.92
+    },
+    "altitude": 227,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 420
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Elite Flying Crab Hatcher",
+      "Flying Crab Hatcher"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Aluminum Casing",
+        "quantity": 113
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 69
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 34
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 40
+      },
+      {
+        "item": "Computer",
+        "quantity": 36
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_23",
+    "region": "Red Bamboo Fields",
+    "locationNote": "southeast, near cliffs",
+    "coordinates": {
+      "x": 122.5,
+      "y": 1141.77
+    },
+    "altitude": 267,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Electromagnetic Control Rod"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Nuclear Hog",
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 8
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 19
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 52
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 147
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 121
+      },
+      {
+        "item": "Silica",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1",
+    "region": "Northern Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 877.4,
+      "y": -629.75
+    },
+    "altitude": 134,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Iron Plate",
+        "quantity": 145
+      },
+      {
+        "item": "Screw",
+        "quantity": 132
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 39
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 32
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 30
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_1",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2932.99,
+      "y": 0.52
+    },
+    "altitude": 5,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 85
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 149
+      },
+      {
+        "item": "Silica",
+        "quantity": 63
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 59
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 40
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 29
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_2",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1572.5,
+      "y": -402.06
+    },
+    "altitude": 137,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Heavy Modular Frame"
+    },
+    "guards": [
+      "Cliff Hog",
+      "Flying Crab Hatcher"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Plastic",
+        "quantity": 98
+      },
+      {
+        "item": "Stator",
+        "quantity": 74
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 70
+      },
+      {
+        "item": "Rubber",
+        "quantity": 65
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 37
+      },
+      {
+        "item": "Computer",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod1_9",
+    "region": "Western Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -1184.81,
+      "y": 749.3
+    },
+    "altitude": 170,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 300
+    },
+    "guards": [
+      "Gas Pillars",
+      "Gas Stingers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Aluminum Casing",
+        "quantity": 88
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 69
+      },
+      {
+        "item": "Computer",
+        "quantity": 36
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 33
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 7
+      },
+      {
+        "item": "Cluster Nobelisk",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_0",
+    "region": "Grass Fields",
+    "locationNote": null,
+    "coordinates": {
+      "x": 477.67,
+      "y": 1957.03
+    },
+    "altitude": 29,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Encased Industrial Beam"
+    },
+    "guards": [
+      "Spore Flowers"
+    ],
+    "scatteredComponents": []
+  },
+  {
+    "id": "BP_DropPod2_1",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2092.72,
+      "y": -669.17
+    },
+    "altitude": 140,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Plastic"
+    },
+    "guards": [
+      "Alpha Spitter",
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Plastic",
+        "quantity": 106
+      },
+      {
+        "item": "Plastic",
+        "quantity": 85
+      },
+      {
+        "item": "Stator",
+        "quantity": 56
+      },
+      {
+        "item": "Stator",
+        "quantity": 55
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 18
+      },
+      {
+        "item": "Computer",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_2",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2322.55,
+      "y": 799.26
+    },
+    "altitude": -13,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 200
+    },
+    "guards": [
+      "Gas Stingers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Silica",
+        "quantity": 90
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 75
+      },
+      {
+        "item": "Computer",
+        "quantity": 25
+      },
+      {
+        "item": "Computer",
+        "quantity": 25
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 15
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_6",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 3601.15,
+      "y": -1066.14
+    },
+    "altitude": 118,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Computer"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Copper Sheet",
+        "quantity": 98
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 74
+      },
+      {
+        "item": "Rotor",
+        "quantity": 53
+      },
+      {
+        "item": "Stator",
+        "quantity": 22
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 15
+      },
+      {
+        "item": "Stun Rebar",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod2_11",
+    "region": "Blue Crater",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1870.56,
+      "y": 2236.57
+    },
+    "altitude": -32,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Heavy Modular Frame"
+    },
+    "guards": [
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Stator",
+        "quantity": 70
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 59
+      },
+      {
+        "item": "Motor",
+        "quantity": 26
+      },
+      {
+        "item": "Motor",
+        "quantity": 17
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 15
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_12",
+    "region": "Blue Crater",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1904.59,
+      "y": 1761.05
+    },
+    "altitude": 115,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Plastic"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Circuit Board",
+        "quantity": 115
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 95
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 69
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 63
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 35
+      },
+      {
+        "item": "Computer",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_3",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2918.22,
+      "y": 747.82
+    },
+    "altitude": -16,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Heavy Modular Frame"
+    },
+    "guards": [
+      "Elite Flying Crab Hatcher",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 110
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 75
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 30
+      },
+      {
+        "item": "Computer",
+        "quantity": 25
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 17
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_4",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 949.4,
+      "y": 1054.83
+    },
+    "altitude": 99,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Alpha Stinger",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 144
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 113
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 113
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 42
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 42
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod3_7",
+    "region": "Dune Desert",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2750.7,
+      "y": -525.85
+    },
+    "altitude": 60,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Iron Rod",
+        "quantity": 122
+      },
+      {
+        "item": "Wire",
+        "quantity": 104
+      },
+      {
+        "item": "Concrete",
+        "quantity": 96
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 22
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 15
+      },
+      {
+        "item": "Screw",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4",
+    "region": "Desert Canyons",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1112.13,
+      "y": -1130.41
+    },
+    "altitude": 120,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 10
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Iron Plate",
+        "quantity": 145
+      },
+      {
+        "item": "Screw",
+        "quantity": 132
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 39
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 32
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 30
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_1",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1436.72,
+      "y": 925.73
+    },
+    "altitude": 250,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Alpha Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 68
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 60
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 37
+      },
+      {
+        "item": "Computer",
+        "quantity": 28
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 18
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_4",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1913.66,
+      "y": 376.94
+    },
+    "altitude": 57,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 400
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 72
+      },
+      {
+        "item": "Computer",
+        "quantity": 28
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 36
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 17
+      },
+      {
+        "item": "Cluster Nobelisk",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_9",
+    "region": "Blue Crater",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1183.5,
+      "y": 2219.05
+    },
+    "altitude": -71,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Circuit Board"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Circuit Board",
+        "quantity": 111
+      },
+      {
+        "item": "Rubber",
+        "quantity": 64
+      },
+      {
+        "item": "Stator",
+        "quantity": 63
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 55
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 35
+      },
+      {
+        "item": "Computer",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_25",
+    "region": "Red Bamboo Fields",
+    "locationNote": null,
+    "coordinates": {
+      "x": -333.4,
+      "y": 51.76
+    },
+    "altitude": 235,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Cooling System"
+    },
+    "guards": [
+      "Spore Flowers",
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Silica",
+        "quantity": 120
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 92
+      },
+      {
+        "item": "Computer",
+        "quantity": 35
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 30
+      },
+      {
+        "item": "Homing Rifle Ammo",
+        "quantity": 17
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod4_8033",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1444.57,
+      "y": 362.94
+    },
+    "altitude": 173,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 17,
+      "item": "Heat Sink"
+    },
+    "guards": [
+      "Nuclear Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quartz Crystal",
+        "quantity": 119
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 102
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 74
+      },
+      {
+        "item": "Computer",
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2264.18,
+      "y": 981.1
+    },
+    "altitude": 73,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Computer"
+    },
+    "guards": [
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Circuit Board",
+        "quantity": 100
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 80
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 55
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 37
+      },
+      {
+        "item": "Computer",
+        "quantity": 20
+      },
+      {
+        "item": "Motor",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_9",
+    "region": "Dune Desert",
+    "locationNote": "to the east, off shore, rock tower",
+    "coordinates": {
+      "x": 3492.95,
+      "y": -388.32
+    },
+    "altitude": -15,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Reinforced Iron Plate"
+    },
+    "guards": [
+      "Spitters"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rotor",
+        "quantity": 69
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 62
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 58
+      },
+      {
+        "item": "Stator",
+        "quantity": 40
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 25
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod5_10",
+    "region": "Blue Crater",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1565.7,
+      "y": 1917.68
+    },
+    "altitude": -93,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 300
+    },
+    "guards": [
+      "Elite Flying Crab Hatcher",
+      "Flying Crab Hatcher",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": []
+  },
+  {
+    "id": "BP_DropPod6",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2727.15,
+      "y": 280.88
+    },
+    "altitude": -16,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 60,
+      "item": "Silica"
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 171
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 101
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 37
+      },
+      {
+        "item": "Computer",
+        "quantity": 31
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 28
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod7",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2160.97,
+      "y": -2.68
+    },
+    "altitude": -16,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 1,
+      "item": "Superposition Oscillator"
+    },
+    "guards": [
+      "Elite Flying Crab Hatchers",
+      "Nuclear Hog",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quartz Crystal",
+        "quantity": 77
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 68
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 39
+      },
+      {
+        "item": "Computer",
+        "quantity": 37
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 15
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod8",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2617.98,
+      "y": 1246.17
+    },
+    "altitude": -26,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Cooling System"
+    },
+    "guards": [
+      "Cliff Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 105
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 67
+      },
+      {
+        "item": "Silica",
+        "quantity": 62
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 60
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 27
+      },
+      {
+        "item": "Heat Sink",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod9",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2499.2,
+      "y": 595.34
+    },
+    "altitude": 24,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Turbo Motor"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Gas Stinger",
+      "Alpha Stinger"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 125
+      },
+      {
+        "item": "Silica",
+        "quantity": 69
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 67
+      },
+      {
+        "item": "Computer",
+        "quantity": 27
+      },
+      {
+        "item": "High-Speed Connector",
+        "quantity": 17
+      },
+      {
+        "item": "Packaged Turbofuel",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod10",
+    "region": "Swamp",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2321.38,
+      "y": 271.91
+    },
+    "altitude": -16,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Quartz Crystal"
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Elite Flying Crab Hatchers",
+      "Cliff Hogs",
+      "Alpha Stinger"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 123
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 117
+      },
+      {
+        "item": "Silica",
+        "quantity": 89
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 68
+      },
+      {
+        "item": "Cooling System",
+        "quantity": 20
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod13",
+    "region": "Lake Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 552.48,
+      "y": -513.16
+    },
+    "altitude": 144,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 20,
+      "item": "Modular Frame"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Steel Beam",
+        "quantity": 143
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 139
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 55
+      },
+      {
+        "item": "Rubber",
+        "quantity": 34
+      },
+      {
+        "item": "Stator",
+        "quantity": 33
+      },
+      {
+        "item": "Gas Filter",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod14_389",
+    "region": "Western Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": -431.44,
+      "y": 1458.2
+    },
+    "altitude": 75,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Modular Frame"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Iron Plate",
+        "quantity": 122
+      },
+      {
+        "item": "Cable",
+        "quantity": 104
+      },
+      {
+        "item": "Steel Beam",
+        "quantity": 44
+      },
+      {
+        "item": "Rotor",
+        "quantity": 40
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 33
+      },
+      {
+        "item": "Solid Biofuel",
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod19",
+    "region": "Lake Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 86.8,
+      "y": -417.78
+    },
+    "altitude": 131,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Rubber"
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Steel Beam",
+        "quantity": 123
+      },
+      {
+        "item": "Stator",
+        "quantity": 56
+      },
+      {
+        "item": "Stator",
+        "quantity": 47
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 103
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 54
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod20",
+    "region": "Lake Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 666.52,
+      "y": -136.42
+    },
+    "altitude": 134,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 90
+    },
+    "guards": [
+      "Flying Crab Hatchers"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Copper Sheet",
+        "quantity": 141
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 111
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 79
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 41
+      },
+      {
+        "item": "Stator",
+        "quantity": 33
+      },
+      {
+        "item": "Motor",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod24_1",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1749.48,
+      "y": -2764.36
+    },
+    "altitude": 212,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 43,
+      "item": "Electromagnetic Control Rod"
+    },
+    "guards": [
+      "Nuclear Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 150
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 75
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 60
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 28
+      },
+      {
+        "item": "Heat Sink",
+        "quantity": 15
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod27_20823",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1639.99,
+      "y": 613.33
+    },
+    "altitude": 215,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 15,
+      "item": "Crystal Oscillator"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Plastic",
+        "quantity": 102
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 50
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 45
+      },
+      {
+        "item": "Motor",
+        "quantity": 30
+      },
+      {
+        "item": "Computer",
+        "quantity": 23
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod28_23787",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2325.16,
+      "y": -205.19
+    },
+    "altitude": 90,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Heat Sink"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Silica",
+        "quantity": 89
+      },
+      {
+        "item": "Silica",
+        "quantity": 67
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 125
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 32
+      },
+      {
+        "item": "Homing Rifle Ammo",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod29_27444",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 942.67,
+      "y": 472.37
+    },
+    "altitude": 94,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Electromagnetic Control Rod"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 100
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 78
+      },
+      {
+        "item": "Silica",
+        "quantity": 62
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 25
+      },
+      {
+        "item": "Explosive Rebar",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod30_6998",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1700.58,
+      "y": -105.8
+    },
+    "altitude": 188,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 5,
+      "item": "Turbo Motor"
+    },
+    "guards": [
+      "Nuclear Hog",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 134
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 119
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 89
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 78
+      },
+      {
+        "item": "Homing Rifle Ammo",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod31",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2005.1,
+      "y": 1319.12
+    },
+    "altitude": 63,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 30,
+      "item": "Motor"
+    },
+    "guards": [
+      "Cliff Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 128
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 91
+      },
+      {
+        "item": "Silica",
+        "quantity": 65
+      },
+      {
+        "item": "Motor",
+        "quantity": 27
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 27
+      },
+      {
+        "item": "Rifle Ammo",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod32_1",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 903.14,
+      "y": 1295.84
+    },
+    "altitude": 91,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 30,
+      "item": "Cooling System"
+    },
+    "guards": [
+      "Cliff Hogs",
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 123
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 40
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 30
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 25
+      },
+      {
+        "item": "Fused Modular Frame",
+        "quantity": 8
+      },
+      {
+        "item": "Homing Rifle Ammo",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod42",
+    "region": "Abyss Cliffs",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2210.7,
+      "y": 1859.15
+    },
+    "altitude": 116,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 146
+      },
+      {
+        "item": "Rubber",
+        "quantity": 134
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 88
+      },
+      {
+        "item": "Silica",
+        "quantity": 55
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 40
+      },
+      {
+        "item": "Computer",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod42_5",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1907.85,
+      "y": -2368.1
+    },
+    "altitude": 231,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 35,
+      "item": "High-Speed Connector"
+    },
+    "guards": [
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quartz Crystal",
+        "quantity": 120
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 109
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 77
+      },
+      {
+        "item": "Computer",
+        "quantity": 31
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 15
+      },
+      {
+        "item": "Turbo Motor",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod45_6",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1908.65,
+      "y": -1276.7
+    },
+    "altitude": 160,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 57,
+      "item": "Alclad Aluminum Sheet"
+    },
+    "guards": [
+      "Nuclear Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Quickwire",
+        "quantity": 107
+      },
+      {
+        "item": "Aluminum Casing",
+        "quantity": 90
+      },
+      {
+        "item": "Silica",
+        "quantity": 72
+      },
+      {
+        "item": "Computer",
+        "quantity": 30
+      },
+      {
+        "item": "Heat Sink",
+        "quantity": 17
+      },
+      {
+        "item": "Electromagnetic Control Rod",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_1",
+    "region": "Lake Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 809.8,
+      "y": -441.0
+    },
+    "altitude": 83,
+    "unlockRequirement": {
+      "type": "power",
+      "megawatts": 60
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Concrete",
+        "quantity": 122
+      },
+      {
+        "item": "Concrete",
+        "quantity": 112
+      },
+      {
+        "item": "Rotor",
+        "quantity": 54
+      },
+      {
+        "item": "Rotor",
+        "quantity": 35
+      },
+      {
+        "item": "Modular Frame",
+        "quantity": 19
+      },
+      {
+        "item": "Iron Rebar",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_2",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1506.34,
+      "y": 1466.99
+    },
+    "altitude": 77,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Quickwire"
+    },
+    "guards": [
+      "Alpha Hog"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 140
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 75
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 30
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 25
+      },
+      {
+        "item": "Silica",
+        "quantity": 45
+      },
+      {
+        "item": "Motor",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_5",
+    "region": "Maze Canyons",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1114.79,
+      "y": -545.15
+    },
+    "altitude": 171,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Copper Sheet"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Steel Beam",
+        "quantity": 80
+      },
+      {
+        "item": "Rotor",
+        "quantity": 68
+      },
+      {
+        "item": "Steel Pipe",
+        "quantity": 66
+      },
+      {
+        "item": "Reinforced Iron Plate",
+        "quantity": 55
+      },
+      {
+        "item": "Encased Industrial Beam",
+        "quantity": 40
+      },
+      {
+        "item": "Stator",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_6",
+    "region": "Maze Canyons",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1254.97,
+      "y": -349.49
+    },
+    "altitude": 82,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [],
+    "scatteredComponents": [
+      {
+        "item": "Copper Sheet",
+        "quantity": 110
+      },
+      {
+        "item": "Copper Sheet",
+        "quantity": 95
+      },
+      {
+        "item": "Rotor",
+        "quantity": 70
+      },
+      {
+        "item": "Rotor",
+        "quantity": 63
+      },
+      {
+        "item": "Stator",
+        "quantity": 35
+      },
+      {
+        "item": "Stator",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_11",
+    "region": "Spire Coast",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2191.46,
+      "y": -1998.8
+    },
+    "altitude": 65,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 25,
+      "item": "Screw"
+    },
+    "guards": [],
+    "scatteredComponents": []
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F03B7C01_1559404536",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1159.78,
+      "y": 214.24
+    },
+    "altitude": 155,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Gas Pillars",
+      "Alpha Stinger"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 112
+      },
+      {
+        "item": "Quartz Crystal",
+        "quantity": 97
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 33
+      },
+      {
+        "item": "Computer",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F03B7C01_1712034537",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1984.18,
+      "y": -411.86
+    },
+    "altitude": 138,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Alpha Spitter"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Silica",
+        "quantity": 110
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 32
+      },
+      {
+        "item": "Computer",
+        "quantity": 28
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 27
+      },
+      {
+        "item": "Packaged Turbofuel",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F03B7C01_1807913538",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1210.61,
+      "y": 453.24
+    },
+    "altitude": 174,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Spore Flowers",
+      "Nuclear Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 116
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 111
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 35
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F03C7C01_1131248715",
+    "region": "Titan Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1883.04,
+      "y": 170.59
+    },
+    "altitude": 129,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Nuclear Hogs",
+      "Elite Flying Crab Hatcher"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Silica",
+        "quantity": 72
+      },
+      {
+        "item": "Silica",
+        "quantity": 63
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 116
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 33
+      },
+      {
+        "item": "Heat Sink",
+        "quantity": 16
+      },
+      {
+        "item": "Pulse Nobelisk",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F0486401_1144991453",
+    "region": "Abyss Cliffs",
+    "locationNote": null,
+    "coordinates": {
+      "x": 2415.32,
+      "y": 1313.43
+    },
+    "altitude": 172,
+    "unlockRequirement": {
+      "type": "none"
+    },
+    "guards": [
+      "Cliff Hogs"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Circuit Board",
+        "quantity": 104
+      },
+      {
+        "item": "Alclad Aluminum Sheet",
+        "quantity": 67
+      },
+      {
+        "item": "Computer",
+        "quantity": 35
+      },
+      {
+        "item": "Motor",
+        "quantity": 28
+      },
+      {
+        "item": "Heavy Modular Frame",
+        "quantity": 23
+      },
+      {
+        "item": "Packaged Liquid Biofuel",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "id": "BP_DropPod_C_UAID_04421A9713F0FF6301_1123988602",
+    "region": "Eastern Dune Forest",
+    "locationNote": null,
+    "coordinates": {
+      "x": 1828.25,
+      "y": 938.8
+    },
+    "altitude": 178,
+    "unlockRequirement": {
+      "type": "item",
+      "quantity": 10,
+      "item": "Aluminum Casing"
+    },
+    "guards": [
+      "Gas Pillars"
+    ],
+    "scatteredComponents": [
+      {
+        "item": "Rubber",
+        "quantity": 125
+      },
+      {
+        "item": "Circuit Board",
+        "quantity": 117
+      },
+      {
+        "item": "Quickwire",
+        "quantity": 89
+      },
+      {
+        "item": "Computer",
+        "quantity": 27
+      },
+      {
+        "item": "Crystal Oscillator",
+        "quantity": 17
+      },
+      {
+        "item": "Packaged Liquid Biofuel",
+        "quantity": 9
+      }
+    ]
+  }
+]
