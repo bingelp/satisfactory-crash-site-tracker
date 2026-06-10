@@ -1,5 +1,4 @@
-import { useState, useRef } from 'react'
-import { useSwipeable } from 'react-swipeable'
+import { useState } from 'react'
 import type { CrashSite, SiteCollectedState } from '../types'
 
 interface Props {
@@ -7,6 +6,7 @@ interface Props {
   state: SiteCollectedState
   onMarkHardDrive: (id: string) => void
   onMarkComponentsOnly: (id: string) => void
+  onMarkSite: (id: string) => void
   onUnmark: (id: string) => void
 }
 
@@ -32,51 +32,14 @@ function UnlockBadge({ req }: { req: CrashSite['unlockRequirement'] }) {
   )
 }
 
-const SWIPE_THRESHOLD = 60
-
-export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOnly, onUnmark }: Props) {
+export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOnly, onMarkSite, onUnmark }: Props) {
   const [expanded, setExpanded] = useState(false)
-  const [swipeX, setSwipeX] = useState(0)
   const [confirming, setConfirming] = useState<'hd' | 'loot' | null>(null)
-  const isDragging = useRef(false)
 
   const { hardDriveCollected, componentsCollected } = state
   const isFullyDone = hardDriveCollected
   const isLootOnly = !hardDriveCollected && componentsCollected
-
-  const handlers = useSwipeable({
-    onSwiping: (e) => {
-      isDragging.current = true
-      setSwipeX(e.deltaX)
-    },
-    onSwipedRight: (e) => {
-      if (Math.abs(e.deltaX) >= SWIPE_THRESHOLD) {
-        setConfirming('hd')
-      }
-      setSwipeX(0)
-      setTimeout(() => { isDragging.current = false }, 50)
-    },
-    onSwipedLeft: (e) => {
-      if (Math.abs(e.deltaX) >= SWIPE_THRESHOLD && !hardDriveCollected) {
-        setConfirming('loot')
-      }
-      setSwipeX(0)
-      setTimeout(() => { isDragging.current = false }, 50)
-    },
-    onSwiped: () => {
-      setSwipeX(0)
-      setTimeout(() => { isDragging.current = false }, 50)
-    },
-    trackMouse: false,
-    delta: 10,
-    preventScrollOnSwipe: true,
-  })
-
-  const handleCardClick = () => {
-    if (!isDragging.current && confirming === null) {
-      setExpanded((e) => !e)
-    }
-  }
+  const isMarked = !componentsCollected && !hardDriveCollected && !!state.marked
 
   if (confirming) {
     const isHD = confirming === 'hd'
@@ -112,38 +75,21 @@ export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOn
     )
   }
 
-  const leftReveal = swipeX > SWIPE_THRESHOLD * 0.5
-  const rightReveal = swipeX < -SWIPE_THRESHOLD * 0.5
-
   const leftStripeColor = isFullyDone
     ? 'border-l-green-600'
     : isLootOnly
     ? 'border-l-yellow-500'
+    : isMarked
+    ? 'border-l-sf-cyan'
     : 'border-l-sf-orange'
 
   return (
     <div
       className={`relative mb-2 overflow-hidden border border-sf-border border-l-2 ${leftStripeColor} ${isFullyDone ? 'opacity-50' : ''}`}
     >
-      {/* Swipe reveal: left panel (hard drive) */}
-      {leftReveal && (
-        <div className="absolute inset-0 flex items-center pl-4 bg-green-900/60 z-0">
-          <span className="font-mono text-xs uppercase tracking-widest text-green-400 font-bold">▶ HARD DRIVE</span>
-        </div>
-      )}
-      {/* Swipe reveal: right panel (loot only) */}
-      {rightReveal && !hardDriveCollected && (
-        <div className="absolute inset-0 flex items-center justify-end pr-4 bg-yellow-900/60 z-0">
-          <span className="font-mono text-xs uppercase tracking-widest text-yellow-400 font-bold">LOOT ONLY ◀</span>
-        </div>
-      )}
-
-      {/* Card content */}
       <div
-        {...handlers}
-        style={{ transform: `translateX(${Math.max(-100, Math.min(100, swipeX * 0.4))}px)` }}
-        className="relative z-10 bg-sf-card cursor-pointer select-none transition-transform duration-100"
-        onClick={handleCardClick}
+        className="relative bg-sf-card cursor-pointer select-none"
+        onClick={() => setExpanded((e) => !e)}
       >
         {/* Header row */}
         <div className="flex items-start justify-between px-3 pt-3 pb-2 gap-2">
@@ -158,7 +104,12 @@ export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOn
                 </span>
               )}
             </div>
-            <p className="font-mono text-xs text-sf-muted/60 mt-0.5">{site.id}</p>
+            {site.coordinates && (
+              <p className="font-mono text-xs text-sf-muted/60 mt-0.5">
+                X: <span className="text-sf-cyan/70">{site.coordinates.x.toFixed(0)}</span>
+                {' '}Y: <span className="text-sf-cyan/70">{site.coordinates.y.toFixed(0)}</span>
+              </p>
+            )}
           </div>
 
           {/* Status chip */}
@@ -170,6 +121,10 @@ export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOn
             ) : isLootOnly ? (
               <span className="px-1.5 py-0.5 text-xs font-mono uppercase tracking-wider bg-yellow-900/40 text-yellow-400 border border-yellow-800">
                 LOOTED
+              </span>
+            ) : isMarked ? (
+              <span className="px-1.5 py-0.5 text-xs font-mono uppercase tracking-wider bg-sf-cyan/10 text-sf-cyan border border-sf-cyan/30">
+                ◎ MARKED
               </span>
             ) : (
               <span className="px-1.5 py-0.5 text-xs font-mono uppercase tracking-wider bg-sf-border text-sf-muted">
@@ -246,27 +201,35 @@ export function CrashSiteCard({ site, state, onMarkHardDrive, onMarkComponentsOn
               </div>
             )}
 
-            {/* Action buttons in expanded view */}
-            <div className="flex gap-2 pt-1 border-t border-sf-border">
-              {!isFullyDone && (
+            {/* Action buttons */}
+            <div className="flex gap-2 pt-1 border-t border-sf-border" onClick={(e) => e.stopPropagation()}>
+              {!isMarked && !isLootOnly && !isFullyDone && (
                 <button
-                  onClick={(e) => { e.stopPropagation(); setConfirming('hd') }}
-                  className="flex-1 py-2 font-mono text-xs uppercase tracking-widest bg-green-800/40 hover:bg-green-700/60 text-green-400 border border-green-800"
+                  onClick={() => onMarkSite(site.id)}
+                  className="flex-1 py-2 font-mono text-xs uppercase tracking-widest bg-sf-cyan/10 hover:bg-sf-cyan/20 text-sf-cyan border border-sf-cyan/30"
                 >
-                  ✓ Hard Drive
+                  ◎ Marked
                 </button>
               )}
-              {!componentsCollected && !isFullyDone && (
+              {!isLootOnly && !isFullyDone && (
                 <button
-                  onClick={(e) => { e.stopPropagation(); setConfirming('loot') }}
+                  onClick={() => setConfirming('loot')}
                   className="flex-1 py-2 font-mono text-xs uppercase tracking-widest bg-yellow-800/40 hover:bg-yellow-700/60 text-yellow-400 border border-yellow-800"
                 >
                   ◆ Loot Only
                 </button>
               )}
-              {(componentsCollected || isFullyDone) && (
+              {!isFullyDone && (
                 <button
-                  onClick={(e) => { e.stopPropagation(); onUnmark(site.id) }}
+                  onClick={() => setConfirming('hd')}
+                  className="flex-1 py-2 font-mono text-xs uppercase tracking-widest bg-green-800/40 hover:bg-green-700/60 text-green-400 border border-green-800"
+                >
+                  ✓ Hard Drive
+                </button>
+              )}
+              {(isMarked || isLootOnly || isFullyDone) && (
+                <button
+                  onClick={() => onUnmark(site.id)}
                   className="flex-1 py-2 font-mono text-xs uppercase tracking-widest bg-sf-border hover:bg-sf-card-hover text-sf-muted"
                 >
                   ✕ Unmark

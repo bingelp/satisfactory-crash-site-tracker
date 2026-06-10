@@ -40,6 +40,25 @@ export function useCollection() {
     [collection, getState, persist]
   )
 
+  const markSite = useCallback(
+    (siteId: string) => {
+      const current = getState(siteId)
+      if (current.hardDriveCollected || current.componentsCollected) return
+      persist({
+        ...collection,
+        [siteId]: { hardDriveCollected: false, componentsCollected: false, marked: true },
+      })
+    },
+    [collection, getState, persist]
+  )
+
+  const importCollection = useCallback(
+    (map: CollectionMap) => {
+      persist(map)
+    },
+    [persist]
+  )
+
   const unmark = useCallback(
     (siteId: string) => {
       const next = { ...collection }
@@ -58,5 +77,5 @@ export function useCollection() {
     (s) => s.hardDriveCollected
   ).length
 
-  return { collection, getState, markHardDrive, markComponentsOnly, unmark, resetAll, hardDriveCount }
+  return { collection, getState, markHardDrive, markComponentsOnly, markSite, unmark, resetAll, importCollection, hardDriveCount }
 }

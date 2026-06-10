@@ -6,10 +6,11 @@ interface Props {
   collection: CollectionMap
   onMarkHardDrive: (id: string) => void
   onMarkComponentsOnly: (id: string) => void
+  onMarkSite: (id: string) => void
   onUnmark: (id: string) => void
 }
 
-export function SiteList({ sites, collection, onMarkHardDrive, onMarkComponentsOnly, onUnmark }: Props) {
+export function SiteList({ sites, collection, onMarkHardDrive, onMarkComponentsOnly, onMarkSite, onUnmark }: Props) {
   if (sites.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center py-20 px-6 text-center">
@@ -29,6 +30,7 @@ export function SiteList({ sites, collection, onMarkHardDrive, onMarkComponentsO
           state={collection[site.id] ?? { hardDriveCollected: false, componentsCollected: false }}
           onMarkHardDrive={onMarkHardDrive}
           onMarkComponentsOnly={onMarkComponentsOnly}
+          onMarkSite={onMarkSite}
           onUnmark={onUnmark}
         />
       ))}

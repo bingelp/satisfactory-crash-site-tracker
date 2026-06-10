@@ -24,6 +24,7 @@ export interface CrashSite {
 export interface SiteCollectedState {
   hardDriveCollected: boolean
   componentsCollected: boolean
+  marked?: boolean
 }
 
 export type CollectionMap = Record<string, SiteCollectedState>

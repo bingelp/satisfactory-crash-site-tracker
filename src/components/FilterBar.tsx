@@ -47,7 +47,7 @@ export function FilterBar({
       <div className="relative">
         <span className="absolute left-3 top-1/2 -translate-y-1/2 text-sf-muted text-xs pointer-events-none">⌕</span>
         <input
-          type="search"
+          type="text"
           value={itemSearch}
           onChange={(e) => onItemSearchChange(e.target.value)}
           placeholder="SEARCH LOOT (e.g. COMPUTER)"
